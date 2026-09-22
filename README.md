@@ -1,6 +1,6 @@
 # Examen Programación de Componentes - Julián González
 
-Tienda en React: catálogo de productos, carrito, checkout con cuenta de usuario. Un solo sitio, no páginas sueltas por ejercicio.
+Tienda en React: catálogo de productos, carrito, checkout con cuenta de usuario.
 
 **Demo:** https://examen-julian-gonzalez.netlify.app/
 
