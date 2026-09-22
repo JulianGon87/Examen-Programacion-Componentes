@@ -35,7 +35,7 @@ npm run dev
 
 ## APK (Ejercicio 3)
 
-El proyecto se empaqueta con Cordova en `cordova-app/`. Requiere Android Studio (SDK) instalado y Java 17-21 (JDK 25 no es compatible con Gradle todavía).
+El proyecto se empaqueta con Cordova en `cordova-app/`. Requiere Android Studio (SDK) instalado y Java 17-21.
 
 ```
 npm run build
@@ -47,7 +47,7 @@ npx cordova build android
 
 El APK debug queda en `cordova-app/platforms/android/app/build/outputs/apk/debug/app-debug.apk`, listo para instalar y probar.
 
-Para el release firmado ya hay una keystore generada (`cordova-app/tienda-release.keystore`, datos en `cordova-app/KEYSTORE-INFO.txt`, no se sube al repo):
+Para el release firmado ya hay una keystore generada.
 
 ```
 cd cordova-app/platforms/android
